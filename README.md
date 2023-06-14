@@ -7,6 +7,7 @@ Following a Youtbue video, I created a prompt for user to pick either the dog or
 The project consist dynamic polymorphism, if/else if statement, and a Scanner. 
 
 How?
+
 The superclass is Animal and the subclasses are Dog and Cat. 
 Each class has a Speak method in the constructor.
 The subclass has an overriden method with its own specific message. 
