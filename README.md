@@ -3,7 +3,7 @@
 Language: Java
 
 Dynamic Polymorphism is the process of calling the overriden method in resolving a runtime.
-Following a Youtbue video, I created a prompt for user to pick either the dog or cat. 
+Following a Youtube video, I created a prompt for user to pick either dog or cat. 
 The project consist dynamic polymorphism, if/else if statement, and a Scanner. 
 
 How?
@@ -20,4 +20,4 @@ the two choices to the user. Assign 1 for dog and 2 for cat.
 Make an if/else if statement. 
 If the user type 1 for choice, then use the Dog's constructor and its method speak. 
 Similiar process goes for the else if, but use the Cat class instead.
-Else if the user doesn't pick either choice then return invalid. 
+Else if the user doesn't pick either choices then return invalid. 
